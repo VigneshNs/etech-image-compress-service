@@ -1,2 +1,1 @@
-# single-image-compression-service
-
+# etech-image-compress-service
